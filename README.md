@@ -7,10 +7,9 @@ This setup runs a **Palworld Dedicated Server directly inside an unprivileged De
 It does not require Docker or a full virtual machine.
 
 
-> **Public guide note:** Values such as `<BACKUP_SERVER_IP>`, `<BACKUP_HOSTNAME>`,
+> **Note:** Values such as `<BACKUP_SERVER_IP>`, `<BACKUP_HOSTNAME>`,
 > `<WORLD_GUID>`, `YOUR_SERVER_PASSWORD`, and `YOUR_ADMIN_PASSWORD` are placeholders.
-> Replace them with values from your own environment. Never commit real passwords,
-> private SSH keys, or other credentials to a public repository.
+> Replace them with values from your own environment.
 
 
 The LXC provides:
